@@ -18,5 +18,5 @@ Fun Fact
 🎵 I enjoy listening to music while coding!
 ---
 
-![GitHub Snake dark](https://github.com/<your-username>/<your-repo>/blob/output/github-snake-dark.svg)
+![GitHub Snake dark](https://github.com/officialhitesh/officialhitesh/blob/output/github-snake-dark.svg)
 

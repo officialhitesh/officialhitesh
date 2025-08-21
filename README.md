@@ -16,3 +16,9 @@ Connect with Me
 🔗 LinkedIn: [hitesh-kumar2003]
 Fun Fact
 🎵 I enjoy listening to music while coding!
+---
+
+### 🐍 Watch my contribution graph get eaten by a snake!
+
+![GitHub Snake Light](https://officialhitesh.github.io/snk/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://officialhitesh.github.io/snk/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)

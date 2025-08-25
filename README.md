@@ -18,6 +18,4 @@ Fun Fact
 🎵 I enjoy listening to music while coding!
 ---
 
-![GitHub Snake Light](https://github.com/officialhitesh/officialhitesh/blob/output/github-snake.svg)
-
 
